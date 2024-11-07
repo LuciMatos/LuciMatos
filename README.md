@@ -1,5 +1,5 @@
 ## Hello Devs! 👋
-# Meu nome é Lucimara mas podem me chamar de Lú ✌🏻
+## Meu nome é Lucimara mas podem me chamar de Lú ✌🏻
 
 ### Formada em Ciência de Dados e aprendendo Desenvolvimento Mobile.
 
