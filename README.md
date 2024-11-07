@@ -32,7 +32,7 @@
 ![image](https://github.com/user-attachments/assets/9f413d01-92a4-45d9-a20a-1dee27b04bfa)
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 
 
    
