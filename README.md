@@ -27,9 +27,8 @@
   <a href="www.linkedin.com/in/lucimara-matos" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "lucimattos22@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<img src="https://github.com/user-attachments/assets/9f413d01-92a4-45d9-a20a-1dee27b04bfa" alt="image" width="400">
 
-
-![image](https://github.com/user-attachments/assets/9f413d01-92a4-45d9-a20a-1dee27b04bfa)
 
 
 
